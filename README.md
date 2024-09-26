@@ -15,6 +15,7 @@ Para o marcador, é necessário:
 Mapa deve abrir obrigatoriamente no BRASIL e no estado ao qual foi designado com os marcadores habilitados mas não expostos (expor somente ao clicar)
 
 Você precisará:
+
     1 - Pesquisar uma biblioteca de Mapa (eu vou estipular quais)
     2 - Carregar o mapa numa página HTML e trazer as informações e marcadores (ao menos 5 marcadores por estado)
     3 - Publicar no vercel
