@@ -22,12 +22,12 @@ Você precisará:
     3 - Publicar no vercel
     4 - Prazo: 03/09/2024
 
-* Yannee Adriano
+* Yanne e Adriano - Leaflet https://leafletjs.com/
     * MS
     * TO
     * MG
     * AP
-* Brena e Victor
+* Brena e Victor - Open Layers https://openlayers.org/
     * AL
     * PA
     * RN
