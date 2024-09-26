@@ -21,16 +21,14 @@ Você precisará:
     3 - Publicar no vercel
     4 - Prazo: 03/09/2024
 
-* Yanne
+* Yannee Adriano
     * MS
     * TO
-* Adriano
     * MG
     * AP
-* Brena
+* Brena e Victor
     * AL
     * PA
-* Victor
     * RN
     * AC
     * GO
