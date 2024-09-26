@@ -18,6 +18,7 @@ Você precisará:
 
     1 - Pesquisar uma biblioteca de Mapa (eu vou estipular quais)
     2 - Carregar o mapa numa página HTML e trazer as informações e marcadores (ao menos 5 marcadores por estado)
+        > Obs.: Marcadores devem estar com informações armazenadas em objetos.
     3 - Publicar no vercel
     4 - Prazo: 03/09/2024
 
